@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Amr, a CS Student based in Egypt.
+I'm Amr, a CS student based in Egypt.
 
 I learn, design, and build whenever I can.
 
-I'm currently learning C, Python, Git & GitHub, algorithms, and maybe ML/AI later.
+I'm currently learning C, Python, Git & GitHub, algorithms, and exploring ML/AI.
 
-I'm working on small python and C projects to strengthen my programming fundamentals.
+I'm working on small Python and C projects to strengthen my programming fundamentals.
 
-I don't have much projects yet, but more is coming soon..
+I don't have much projects yet, but more to come.
 
 
 <!--
