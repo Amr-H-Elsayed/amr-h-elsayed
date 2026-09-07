@@ -10,6 +10,8 @@ I'm working on small Python and C projects to strengthen my programming fundamen
 
 I don't have much projects yet, but more to come.
 
+Feel free to reach out to me!
+
 
 <!--
 **Amr-H-Elsayed/amr-h-elsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
