@@ -10,7 +10,6 @@ I'm working on small Python and C projects to strengthen my programming fundamen
 
 I don't have much projects yet, but more to come.
 
-Feel free to reach out to me!
 
 
 <!--
