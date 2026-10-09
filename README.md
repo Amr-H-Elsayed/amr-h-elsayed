@@ -8,6 +8,8 @@ Currently learning C, Python, Git & GitHub, and algorithms while working on smal
 
 More experiments and projects coming soon.
 
+You can reach me on my LinkedIn or Email!
+
 
 
 <!--
